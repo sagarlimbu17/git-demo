@@ -120,7 +120,3 @@ USE_TZ = True
 STATIC_URL = '/static/'
 TEMPLATE_DIR = os.path.join(BASE_DIR,'templates')
 STATICFILES_DIR = os.path.join(BASE_DIR,'static')
-<<<<<<< HEAD
-=======
-
->>>>>>> 1d95e6186d4837a44583046e16840ac50894c23a
